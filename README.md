@@ -1,7 +1,7 @@
 <h1 align="center">ChatCord</h1>
 
 <h1>
-  <img src="">
+  <img src="https://firebasestorage.googleapis.com/v0/b/personal-storage-bd8bb.appspot.com/o/ChatCord%20App.png?alt=media&token=2b0b30c4-3ee6-4629-9b4f-de5c3f62d34d">
 </h1>
 
 # Index
@@ -12,7 +12,7 @@
 - [How to use](#how-to-use)
 
 ## 📖About
-This project was made based on video by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA). It is a simple local hosted real-time chat, where the users can choose among different rooms to join and talk.
+This project was made based on video by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA). It is a simple local hosted real-time chat created using websockets.
 
 ## 🖥Technologies 
 - [Node](https://nodejs.org/en/)
