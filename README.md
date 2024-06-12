@@ -4,6 +4,8 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/personal-storage-bd8bb.appspot.com/o/ChatCord%20App.png?alt=media&token=2b0b30c4-3ee6-4629-9b4f-de5c3f62d34d">
 </h1>
 
+- This is a simple test
+
 # Index
 - [About](#about)
 - [Technologies](#technologies)
